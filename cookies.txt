@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.aikido-unite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1785279797|qG6Af84bwsVH
+www.aikido-unite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_hit#dc#desc=fastly_g
+www.aikido-unite.com	TRUE	/	FALSE	1999999999	sec-fetch-unsupported	1
+www.aikido-unite.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
