@@ -246,11 +246,24 @@ wix-dropdown-menu.hidden-during-prewarmup {
     padding: 12px 20px;
     border-radius: 6px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 1.5rem !important;
     font-weight: bold;
     margin-top: 20px;
   }
 
   .btn-inscription:hover {
     background-color: #005bb5;
+  }
+
+  .link-document {
+    color: #0d6efd;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    font-weight: 500;
+    transition: color 0.2s ease;
+  }
+
+  .link-document:hover,
+  .link-document:focus {
+    color: #0a58ca;
   }
